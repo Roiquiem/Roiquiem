@@ -1,4 +1,4 @@
 - I’m Roi (@Roiquiem)
-- I’m interested in data analysis
-- I’m currently learning SQL and Pandas
+- I’m interested in data engineering and data analysis 
+- I’m currently learning SQL, Python (Pandas), Azure for IoT porpuses
 - Reach out here
