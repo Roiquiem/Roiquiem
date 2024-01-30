@@ -1,4 +1,4 @@
 - I’m Roi (@Roiquiem)
-- I’m a software engineer, maily C++ and Python
+- I’m a software engineer, mainly C++ and Python
 - Currently working on some projects in the drone field, including computer vision, PX4, MAVlink protocols
 - Reach out here
