@@ -1,4 +1,4 @@
 - I’m Roi (@Roiquiem)
-- I’m interested in data engineering and data analysis 
-- I’m currently learning SQL, Python (Pandas), Azure for IoT porpuses
+- I’m a software engineer, maily C++ and Python
+- Currently working on some projects in the drone field, including computer vision, PX4, MAVlink protocols
 - Reach out here
